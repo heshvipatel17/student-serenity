@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Student CURD test","Delete the student and verify if the student is deleted!","SUCCESS","2020-05-17T14:12:08.328+01:00","0.0","0.27"
+"Student CURD test","This test will create a new student","SUCCESS","2020-05-17T14:12:01.235+01:00","0.0","5.8"
+"Student CURD test","Update the user information and verify the updated information","SUCCESS","2020-05-17T14:12:08.055+01:00","0.0","0.27"
+"Student CURD test","Verify if the student was added to the application","SUCCESS","2020-05-17T14:12:07.078+01:00","0.0","0.97"
